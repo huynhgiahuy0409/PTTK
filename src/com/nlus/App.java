@@ -5,5 +5,6 @@ public class App {
         //commit
         //commit
         //commit
+        String name;
     }
 }
