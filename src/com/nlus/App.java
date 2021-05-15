@@ -7,5 +7,6 @@ public class App {
         //commit
         String name;
         String age;
+        String sex;
     }
 }
